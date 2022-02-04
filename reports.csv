@@ -1,0 +1,5 @@
+"id","title","comment","inventory_id","log_id","created_at","updated_at","deleted_at"
+"1","TimeTable Created","New TimeTable created by 7 for labs 01 - 05","1","1","2022-02-04 12:47:02",NULL,NULL
+"2","TimeTable Created","New TimeTable created by 7 for labs 06 - 10","2","3","2022-02-04 12:47:02",NULL,NULL
+"3","TimeTable Created","New TimeTable created by 6 for labs 11 - 15","3","5","2022-02-04 12:47:03",NULL,NULL
+"4","TimeTable Created","New TimeTable created by 6 for labs 16 - 20","4","9","2022-02-04 12:47:03",NULL,NULL

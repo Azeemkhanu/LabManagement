@@ -1,0 +1,21 @@
+"id","key","value","user_id","created_at","updated_at","deleted_at"
+"1","role","student","1","2022-02-04 12:36:23",NULL,NULL
+"2","role","student","2","2022-02-04 12:37:50",NULL,NULL
+"3","role","student","3","2022-02-04 12:38:04",NULL,NULL
+"4","role","student","4","2022-02-04 12:38:14",NULL,NULL
+"5","role","student","5","2022-02-04 12:40:35",NULL,NULL
+"6","role","student","6","2022-02-04 12:40:35",NULL,NULL
+"7","role","student","7","2022-02-04 12:40:35",NULL,NULL
+"8","role","student","8","2022-02-04 12:40:35",NULL,NULL
+"9","role","student","9","2022-02-04 12:40:35",NULL,NULL
+"10","role","student","10","2022-02-04 12:40:35",NULL,NULL
+"11","role","student","11","2022-02-04 12:40:35",NULL,NULL
+"12","role","student","12","2022-02-04 12:40:35",NULL,NULL
+"13","role","student","13","2022-02-04 12:40:35",NULL,NULL
+"14","role","student","14","2022-02-04 12:40:35",NULL,NULL
+"15","role","student","15","2022-02-04 12:40:35",NULL,NULL
+"16","role","student","16","2022-02-04 12:40:35",NULL,NULL
+"17","role","student","17","2022-02-04 12:40:36",NULL,NULL
+"18","role","student","18","2022-02-04 12:40:36",NULL,NULL
+"19","role","student","19","2022-02-04 12:40:36",NULL,NULL
+"20","role","student","20","2022-02-04 12:40:36",NULL,NULL

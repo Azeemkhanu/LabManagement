@@ -1,0 +1,21 @@
+"id","name","username","email","created_at","updated_at","deleted_at"
+"1","Usman","usman2212","usman.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"2","Umer","umer1532","umer.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"3","Zain","zain1417","zain.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"4","Azeem","azeem324","azeem.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"5","Farooq","farooq2354","farooq.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"6","Naeem","naeem9837","naeem.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"7","Faiq","faiq6332","faiq.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"8","Khan","khan2938","khan.email@example.com","2022-02-04 12:20:12",NULL,NULL
+"9","Qasim","qasim2393","qasim.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"10","Abdullah","abdullah23","abdullah.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"11","Ahmed","ahmed7235","ahmed.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"12","Tariq","tariq3463","tariq.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"13","Faizan","faizan2783","faizan.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"14","Fahad","fahad7252","fahad.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"15","Ali","ali5424","ali.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"16","Asim","asim6723","asim.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"17","Babar","babar763","babar.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"18","Haseeb","haseeb1238","haseeb.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"19","Sami","sami9122","sami.email@example.com","2022-02-04 12:20:13",NULL,NULL
+"20","Saqib","saqib8823","saqib.email@example.com","2022-02-04 12:20:13",NULL,NULL

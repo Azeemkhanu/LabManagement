@@ -1,0 +1,23 @@
+"id","name","room_number","location","user_id","network_id","created_at","updated_at","deleted_at"
+"1","Lab 01","212","RIU A Block First Floor","1","9","2022-02-04 12:44:29",NULL,NULL
+"2","Lab 02","213","RIU A Block First Floor","2","9","2022-02-04 12:44:29",NULL,NULL
+"3","Lab 03","214","RIU A Block First Floor","3","9","2022-02-04 12:44:29",NULL,NULL
+"4","Lab 04","215","RIU A Block First Floor","4","9","2022-02-04 12:44:29",NULL,NULL
+"5","Lab 05","216","RIU A Block First Floor","5","9","2022-02-04 12:44:30",NULL,NULL
+"6","Lab 06","222","RIU A Block Ground Floor","6","10","2022-02-04 12:44:30",NULL,NULL
+"7","Lab 07","223","RIU A Block Ground Floor","7","10","2022-02-04 12:44:30",NULL,NULL
+"8","Lab 08","224","RIU A Block Ground Floor","8","10","2022-02-04 12:44:30",NULL,NULL
+"9","Lab 09","225","RIU A Block Ground Floor","9","10","2022-02-04 12:44:30",NULL,NULL
+"10","Lab 10","226","RIU A Block Ground Floor","10","10","2022-02-04 12:44:30",NULL,NULL
+"11","Lab 11","312","RIU B Block First Floor","11","11","2022-02-04 12:44:30",NULL,NULL
+"12","Lab 12","313","RIU B Block First Floor","12","11","2022-02-04 12:44:30",NULL,NULL
+"13","Lab 13","314","RIU B Block First Floor","13","11","2022-02-04 12:44:30",NULL,NULL
+"14","Lab 14","315","RIU B Block First Floor","14","11","2022-02-04 12:44:30",NULL,NULL
+"15","Lab 15","316","RIU B Block First Floor","15","11","2022-02-04 12:44:30",NULL,NULL
+"16","Lab 16","322","RIU B Block Ground Floor","16","12","2022-02-04 12:44:30",NULL,NULL
+"17","Lab 17","323","RIU B Block Ground Floor","17","12","2022-02-04 12:44:30",NULL,NULL
+"18","Lab 18","324","RIU B Block Ground Floor","18","12","2022-02-04 12:44:30",NULL,NULL
+"19","Lab 19","325","RIU B Block Ground Floor","19","12","2022-02-04 12:44:30",NULL,NULL
+"20","Lab 20","326","RIU B Block Ground Floor","20","12","2022-02-04 12:44:31",NULL,NULL
+"21","Lab 21","241","RIU A Block First Floor","1","9","2022-02-04 12:44:31",NULL,NULL
+"22","Lab 21","243","RIU A Block First Floor","1","9","2022-02-04 12:44:31",NULL,NULL
